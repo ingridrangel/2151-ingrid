@@ -1,18 +1,19 @@
 body{
-    background-color: antiquewhite;
+    background-color: rgb(250, 215, 234);
     font-family: tahoma;
 }
-.principal img{
-    width: 100%;
-}
-h1{
+h1 {
     background-color: blueviolet;
     text-align: center;
     font-size: 1.3em;
     text-transform: uppercase;
+    color: azure;
 }
 .titulo{
     margin-top: 4.5em;
-    background-color: blueviolet;
+    background-color: rgb(242, 231, 252);
     padding: 0.5em;
+}
+img{
+    width: 100%;
 }
